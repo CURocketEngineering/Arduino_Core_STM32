@@ -7625,6 +7625,22 @@ GenH7.menu.pnum.GENERIC_H743ZITX.build.board=GENERIC_H743ZITX
 GenH7.menu.pnum.GENERIC_H743ZITX.build.product_line=STM32H743xx
 GenH7.menu.pnum.GENERIC_H743ZITX.build.variant=STM32H7xx/H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT
 
+# Generic H745ZGTx
+GenH7.menu.pnum.GENERIC_H745ZGTX=Generic H745ZGTx
+GenH7.menu.pnum.GENERIC_H745ZGTX.upload.maximum_size=1048576
+GenH7.menu.pnum.GENERIC_H745ZGTX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.board=GENERIC_H745ZGTX
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.product_line=STM32H745xG
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
+
+# Generic H745ZITx
+GenH7.menu.pnum.GENERIC_H745ZITX=Generic H745ZITx
+GenH7.menu.pnum.GENERIC_H745ZITX.upload.maximum_size=2097152
+GenH7.menu.pnum.GENERIC_H745ZITX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H745ZITX.build.board=GENERIC_H745ZITX
+GenH7.menu.pnum.GENERIC_H745ZITX.build.product_line=STM32H745xx
+GenH7.menu.pnum.GENERIC_H745ZITX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
+
 # Generic H747AGIx
 GenH7.menu.pnum.GENERIC_H747AGIX=Generic H747AGIx
 GenH7.menu.pnum.GENERIC_H747AGIX.upload.maximum_size=1048576
@@ -7744,6 +7760,14 @@ GenH7.menu.pnum.GENERIC_H757IITX.upload.maximum_data_size=524288
 GenH7.menu.pnum.GENERIC_H757IITX.build.board=GENERIC_H757IITX
 GenH7.menu.pnum.GENERIC_H757IITX.build.product_line=STM32H757xx
 GenH7.menu.pnum.GENERIC_H757IITX.build.variant=STM32H7xx/H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT
+
+# Generic H755ZITx
+GenH7.menu.pnum.GENERIC_H755ZITX=Generic H755ZITx
+GenH7.menu.pnum.GENERIC_H755ZITX.upload.maximum_size=2097152
+GenH7.menu.pnum.GENERIC_H755ZITX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H755ZITX.build.board=GENERIC_H755ZITX
+GenH7.menu.pnum.GENERIC_H755ZITX.build.product_line=STM32H755xx
+GenH7.menu.pnum.GENERIC_H755ZITX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
 
 # Upload menu
 GenH7.menu.upload_method.swdMethod=STM32CubeProgrammer (SWD)
