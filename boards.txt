@@ -209,6 +209,20 @@ Nucleo_144.menu.pnum.NUCLEO_H753ZI.build.product_line=STM32H753xx
 Nucleo_144.menu.pnum.NUCLEO_H753ZI.build.variant=STM32H7xx/H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT
 Nucleo_144.menu.pnum.NUCLEO_H753ZI.build.variant_h=variant_NUCLEO_H753ZI.h
 
+# NUCLEO_H755ZI board
+Nucleo_144.menu.pnum.NUCLEO_H755ZI=Nucleo H755ZI
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.node=NODE_H755ZI
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.upload.maximum_size=
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.upload.maximum_data_size=
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.mcu=cortex-m7
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.fpu=-mfpu=fpv4-sp-d16
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.float-abi=-mfloat-abi=hard
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.board=NUCLEO_H755ZI
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.series=STM32H7xx
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.product_line=STM32H755xx
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
+Nucleo_144.menu.pnum.NUCLEO_H755ZI.build.variant_h=variant_NUCLEO_H755ZI.h
+
 # NUCLEO_L496ZG board
 Nucleo_144.menu.pnum.NUCLEO_L496ZG=Nucleo L496ZG
 Nucleo_144.menu.pnum.NUCLEO_L496ZG.node=NODE_L496ZG
@@ -7842,6 +7856,30 @@ GenH7.menu.pnum.GENERIC_H755XIHX.upload.maximum_data_size=524288
 GenH7.menu.pnum.GENERIC_H755XIHX.build.board=GENERIC_H755XIHX
 GenH7.menu.pnum.GENERIC_H755XIHX.build.product_line=STM32H755xx
 GenH7.menu.pnum.GENERIC_H755XIHX.build.variant=STM32H7xx/H742X(G-I)H_H743X(G-I)H_H745X(G-I)H_H747X(G-I)H_H750XBH_H753XIH_H755XIH_H757XIH
+
+# Generic H745ZGTx
+GenH7.menu.pnum.GENERIC_H745ZGTX=Generic H745ZGTx
+GenH7.menu.pnum.GENERIC_H745ZGTX.upload.maximum_size=1048576
+GenH7.menu.pnum.GENERIC_H745ZGTX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.board=GENERIC_H745ZGTX
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.product_line=STM32H745xG
+GenH7.menu.pnum.GENERIC_H745ZGTX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
+
+# Generic H745ZITx
+GenH7.menu.pnum.GENERIC_H745ZITX=Generic H745ZITx
+GenH7.menu.pnum.GENERIC_H745ZITX.upload.maximum_size=2097152
+GenH7.menu.pnum.GENERIC_H745ZITX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H745ZITX.build.board=GENERIC_H745ZITX
+GenH7.menu.pnum.GENERIC_H745ZITX.build.product_line=STM32H745xx
+GenH7.menu.pnum.GENERIC_H745ZITX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
+
+# Generic H755ZITx
+GenH7.menu.pnum.GENERIC_H755ZITX=Generic H755ZITx
+GenH7.menu.pnum.GENERIC_H755ZITX.upload.maximum_size=2097152
+GenH7.menu.pnum.GENERIC_H755ZITX.upload.maximum_data_size=884736
+GenH7.menu.pnum.GENERIC_H755ZITX.build.board=GENERIC_H755ZITX
+GenH7.menu.pnum.GENERIC_H755ZITX.build.product_line=STM32H755xx
+GenH7.menu.pnum.GENERIC_H755ZITX.build.variant=STM32H7xx/H745Z(G-I)T_H755ZIT
 
 # Generic H757AIIx
 GenH7.menu.pnum.GENERIC_H757AIIX=Generic H757AIIx
